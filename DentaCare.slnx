@@ -1,0 +1,6 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/DentaCare.Legacy/DentaCare.Legacy.csproj" />
+    <Project Path="src/DentalCare.Refactored/DentalCare.Refactored.csproj" />
+  </Folder>
+</Solution>
